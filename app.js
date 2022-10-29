@@ -10,8 +10,8 @@ if(a){
 console.log(a)
 
 /*
-elan olunmuş "a" dəyişənə "10" dəyəri təyin etdiyimiz üçün "a" boolean true alır və onun üçün 
-"if-else condition" birinci vəziyyəti alir consola => // a is true / a=10+20=30 vəziyyətini alır
+elan olunmuş "a" dəyişənə "10" dəyəri təyin etdiyimiz üçün "a" boolean true olur və onun üçün 
+"if-else condition" birinci vəziyyəti alir consola => // a is true / a=10+20=30 qaytaracaq
 */
 
 // =========================================================================================================
@@ -27,8 +27,8 @@ console.log(a);
 
 /*
 Bu misaldaki condition birinci vəziyyəti "!a" dəyəri (boolean false) aldiğı halda onun ilə əməliyyat aparıb onun 
-üstünə 20 gələcək, amma "a"-nin dəyəri false oluğu halda error verecek. 
-Consol => a is false / 10; 
+üstünə 20 gələcək, amma "!a"-nin dəyəri false oluğu üçün error verecek. 
+Console ==> a is false / 10; 
 */
 
 // =========================================================================================================
